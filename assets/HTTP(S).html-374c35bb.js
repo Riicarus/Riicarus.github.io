@@ -1,0 +1,1 @@
+import{_ as t,V as a,W as s,X as e,Y as c}from"./framework-c6791857.js";const r={},_=e("h1",{id:"http-s",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#http-s","aria-hidden":"true"},"#"),c(" HTTP(S)")],-1),o=[_];function n(d,h){return a(),s("div",null,o)}const l=t(r,[["render",n],["__file","HTTP(S).html.vue"]]);export{l as default};

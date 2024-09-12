@@ -1,0 +1,1 @@
+import{_ as t,V as a,W as c,X as e,Y as r}from"./framework-c6791857.js";const s={},o=e("h1",{id:"udp",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#udp","aria-hidden":"true"},"#"),r(" UDP")],-1),n=[o];function _(d,i){return a(),c("div",null,n)}const l=t(s,[["render",_],["__file","UDP.html.vue"]]);export{l as default};

@@ -1,0 +1,1 @@
+import{_ as a,V as t,W as c,X as e,Y as r}from"./framework-c6791857.js";const s={},o=e("h1",{id:"lua",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#lua","aria-hidden":"true"},"#"),r(" Lua")],-1),n=[o];function _(d,l){return t(),c("div",null,n)}const u=a(s,[["render",_],["__file","Lua.html.vue"]]);export{u as default};
